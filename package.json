@@ -1,0 +1,25 @@
+{
+  "name": "DataOWL",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "auto-bind": "^1.1.0",
+    "body-parser": "^1.18.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.2",
+    "faker": "^4.1.0",
+    "node-cron": "^1.2.1",
+    "pg": "^7.4.0",
+    "pg-hstore": "^2.3.2",
+    "redis": "^2.8.0",
+    "request": "^2.83.0",
+    "sequelize": "^4.22.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
